@@ -1,0 +1,1 @@
+This project implements a Multiple Linear Regression model to predict a target variable based on multiple input features. The model is built using Python and leverages libraries such as NumPy, pandas, scikit-learn, and Matplotlib for data manipulation, model training, and evaluation.
